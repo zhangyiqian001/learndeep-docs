@@ -14,7 +14,7 @@
 
 - 格式化人类需求：InstructGPT 建议采用真实用户提交给 OpenAI API 的查询作为任务描述。
 
-![image.png](大模型微调+6321a235-4d5c-4243-a77a-ef715fee2d37/image.png)
+![image.png](README/image.png)
 
 ## 对齐微调
 
